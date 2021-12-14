@@ -6,6 +6,8 @@ https://github.com/vbattalshn/weather-app
 
 https://vuejs-weather-app-example.netlify.app/
 
+https://github.com/coding-to-music/vue-accuweather-api-weather-app
+
 ## Error: Network Error
 You may be getting a network error because Accuweather has a daily 50 request limit. If you want to help me in this regard, you can contact battalsahin6@gmail.com.
 
